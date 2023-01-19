@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #C0EEE4;
+    background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+    color:#393c43;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.blog-item {
+    background-color: #F8F988;
+    margin: 0 10% 5% 10%;
+    border-radius: 25px;
+    color: #263159;
+    padding: 40px;
+    min-height: 300px;
+    /* position: relative; */
+}
+
+.blog-item h1{
+    font-weight: 600;
+    text-align: center;
+    /* margin: 0 200px 0 0; */
+   
+}
+
+.blog-item p{
+    font-weight: 400;
+    text-align: left;
+    font-size: 1.2rem;
+    margin: 5%;
+    white-space: pre-wrap;
+}
+
+.header {
+    font-family: 'Parisienne', cursive;
+    font-size: 7rem;
+    margin-top: 2rem;
+}
+
+.entry-icon {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 20px;
+}
+
+.navigation-bar{
+    margin: 3% 10%;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.nav-item {
+    font-size: 1.5rem;
+    margin-left: 3%;
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #C0EEE4;
+    padding: 5% ;
+    font-size: 1.2rem;
+}
+
+.footer p{
+    margin-bottom: 0;
+}
+
+.info-item {
+    background-color: #F8F988;
+    margin: 0 10% 5% 10%;
+    border-radius: 25px;
+    color: #263159;
+    padding: 40px;
+}
+
+.info-item p {
+    font-size: 1.3rem;
+    margin: 1.5rem 0;
+}
